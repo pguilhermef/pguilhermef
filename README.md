@@ -1,5 +1,7 @@
 ## Oi Mundo! Eu sou o Paulo!
 
+### _Readme em construção_ 👷🏻‍♂️
+
 <div align="center">
   <a href="https://github.com/pguilhermef">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pguilhermef&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
