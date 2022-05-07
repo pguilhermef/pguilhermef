@@ -1,6 +1,6 @@
-## Oi Mundo! Eu sou o Paulo!
+## Oi Mundo! Eu sou o Paulo! <img src="https://c.tenor.com/tuvk4qUAcaUAAAAj/baby-yoda-star-wars.gif" width="80px">
 
-### _Readme em construção_ 👷🏻‍♂️
+### _Readme em construção_ 👷🏻‍♂️ 
 
 
 <a href="https://github.com/pguilhermef"/>
