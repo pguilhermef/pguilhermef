@@ -9,7 +9,7 @@
   
 ##
 
-<a href="https://instagram.com/pege.dev/">
+<a href="https://instagram.com/pege.dev/" target="_blank">
     <img
       align="center"
       src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=#ffffff"
@@ -17,7 +17,7 @@
     />
   </a>
   
-  <a href="https://www.linkedin.com/in/paulo-guilherme-fidelis-404838231/">
+  <a href="https://www.linkedin.com/in/paulo-guilherme-fidelis-404838231/" target="_blank">
     <img
          align="center"
          src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=#ffffff"
@@ -25,7 +25,7 @@
          />
   </a>
   
- <a href="mailto:pguilhermesantos@hotmail.com">
+ <a href="mailto:pguilhermesantos@hotmail.com" target="_blank">
     <img
          align="center"
          src="https://img.shields.io/badge/Gmail-1C1C1C?style=for-the-badge&logo=gmail&logoColor=#ffffff" 
