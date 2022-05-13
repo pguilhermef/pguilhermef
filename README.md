@@ -8,9 +8,29 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pguilhermef&layout=compact&langs_count=7&theme=chartreuse-dark"/>
   
 ##
+
+<a href="https://instagram.com/pege.dev/">
+    <img
+      align="center"
+      src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=#ffffff"
+      target="_blank"
+    />
+  </a>
   
-<div> 
-  <a href="https://instagram.com/pege.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:pguilhermesantos@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/paulo-guilherme-fidelis-404838231/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+  <a href="https://www.linkedin.com/in/paulo-guilherme-fidelis-404838231/">
+    <img
+         align="center"
+         src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=#ffffff"
+         target="_blank"
+         />
+  </a>
+  
+ <a href="mailto:pguilhermesantos@hotmail.com">
+    <img
+         align="center"
+         src="https://img.shields.io/badge/Gmail-1C1C1C?style=for-the-badge&logo=gmail&logoColor=#ffffff" 
+         alt="gmail"
+         target="_blank"
+         />
+  </a>
+ </p>
