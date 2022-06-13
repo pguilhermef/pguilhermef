@@ -1,4 +1,4 @@
-## Oi Mundo! Eu sou o Paulo! <img src="https://c.tenor.com/tuvk4qUAcaUAAAAj/baby-yoda-star-wars.gif" width="80px">
+## Oi Mundo! Eu sou o Paulo!
 
 ### _Readme em construção_ 👷🏻‍♂️ 
 
