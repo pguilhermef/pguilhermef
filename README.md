@@ -19,7 +19,7 @@
 ###
 
 <div align="left">
-  <a href="instagram.com/pege.dev/" target="_blank">
+  <a href="https://www.instagram.com/pege.dev/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=282A36&logoColor=259076&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="mailto:pguilhermesantos@hotmail.com" target="_blank">
