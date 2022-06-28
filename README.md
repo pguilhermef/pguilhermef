@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Paulo Guilherme and i'm a Web Developer, from Brazil.</h2>
+<h2 align="center">Hi! My name is Paulo Guilherme and i'm a Web Developer, from Brazil. 👋</h2>
 
 ###
 
