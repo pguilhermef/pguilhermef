@@ -5,10 +5,9 @@
 <h3 align="center"> My statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pguilhermef&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=pt-br&hide_border=false&custom_title=Historic in GitHub" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=pguilhermef&show_icons=true&theme=gotham&locale=pt-br&hide_border=false&custom_title=My GitHub Stats" height="150" alt="stats graph"  />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&custom_title=Most used languages&username=pguilhermef" height="150" alt="languages graph"  />
-
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=pguilhermef&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=pt-br&hide_border=false&custom_title=Historic in GitHub" height="150" alt="stats graph"  />
  
 </div>
 
