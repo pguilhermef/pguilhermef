@@ -1,5 +1,5 @@
 <div width="70%"> 
-   <h3 align="left">Olá, me chamo Paulo Guilherme, tenho 19 anos e sou do Rio de Janeiro.</h3>
+   <h3 align="left">Desenvolvedor Web Front-End</h3>
    <p>Atualmente estou estudando desenvolvimento web na <a href="https://www.betrybe.com/" target="_blank">Trybe<a/> e também crio de conteúdo tech. Você pode me encontrar no perfil <a href="https://www.instagram.com/pege.dev" target="_blank">@pege.dev<a/>.
    <p>E tenho orgulho de dizer que hoje estou mergulhando de cabeça dentro da área que sou apaixonado desde pequeno, a área da Tecnologia.</p>
 
