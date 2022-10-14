@@ -33,6 +33,7 @@
       <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=jest" alt="jest" width="40" height="40"/></a>
       <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="jest" width="40" height="40"/></a>
       <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="jest" width="40" height="40"/></a>
+      <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" alt="jest" width="40" height="40"/></a>
    </p>
    <hr>
 </div>
