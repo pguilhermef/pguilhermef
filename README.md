@@ -22,7 +22,7 @@
    <br>
    <hr>
 
-   <h3 align="left">Linguagens e Ferramentas:</h3>
+   <h3 align="left">Tecnologias e Ferramentas:</h3>
    <p align="left">
       <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/></a>
       <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/></a>
