@@ -10,8 +10,6 @@
 
    <h3 align="left">Entre em contato comigo:</h3>
    <p align="left">
-    <a href="https://www.instagram.com/pege.dev/" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=282A36&logoColor=7ED956&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
     <a href="mailto:pguilhermesantos@hotmail.com" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=282A36&logoColor=7ED956&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
     </a>
@@ -19,7 +17,6 @@
       <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=282A36&logoColor=7ED956&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
    </p>
-   <br>
    <hr>
 
    <h3 align="left">Tecnologias e Ferramentas:</h3>
