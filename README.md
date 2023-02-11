@@ -1,9 +1,9 @@
 <div width="70%"> 
    <h3 align="left">Desenvolvedor Web Fullstack</h3>
    <p>Eu sou simplesmente apaixonado por tecnologia e louco para entender como as coisas funcionam por de trás dos panos. Eu era o tipo de criança que quando ganhava um brinquedo, o desmontava todo só pra entender como aquele "objeto mágico" funcionava. (Os carrinhos de fricção eram os que mais sofriam, coitados.)</p>
-   <p>Outra característica minha que gosto de deixar claro é que sou o tipo de pessoa que gosta de estar em um ambiente que faça sentido pra mim e que faça eu me sentir parte de algo maior. Não quero trabalhar de forma alguma em algo simplesmente por dinheiro. Por esse motivo decidi estudar a área que eu sou apaixonado desde criança, a àrea de Tecnologia.</p>
-   <p>Atualmente estou estudando Desenvolvimento Web na <a href="https://www.betrybe.com/" target="_blank">Trybe<a/> e também sou criador de conteúdo tech. Você pode me encontrar no perfil <a href="https://www.instagram.com/pege.dev" target="_blank">@pege.dev<a/>.
-      E embora o curso na Trybe seja focado no Fullstack Web, eu estou disponível para trabalhar na área que for preciso. Seja ela Front, Back ou Fullstack. E estou sempre disposto é claro a aprender novas tecnologias e áreas, como IOS, Android, etc...</p>
+   <p>Outra característica minha é que sou o tipo de pessoa que gosta de estar em um ambiente que faça sentido e que faça eu me sentir parte de algo maior. Não quero de forma alguma trabalhar em algo simplesmente por dinheiro. Por esses motivos decidi estudar a área que eu sou apaixonado desde criança, a àrea de Tecnologia.</p>
+   <p>Atualmente estou estudando Desenvolvimento na <a href="https://www.betrybe.com/" target="_blank">Trybe<a/>.
+      E embora o curso seja focado no Fullstack Web, eu estou disponível para trabalhar na área que for preciso. Desde as que eu domino: Front, Back ou Fullstack. Até mesmo as que eu não domino mas estou super disposto a aprender, como por exemplo: IOS, Android, etc...</p>
       <p>Me chame em algumas das redes abaixo e terei o enorme prazer em conversar com você!</p>
 
 </div>
