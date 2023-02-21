@@ -9,19 +9,7 @@
 </div>
    <hr>
    <div align="left">
-   <img width="35%" align="right" src="https://dresma.ai/wp-content/uploads/2022/01/Back-End-Developer-Node-JS-1.gif">
-
-   <h3 align="left">Entre em contato comigo:</h3>
-   <p align="left">
-    <a href="mailto:pguilhermesantos@hotmail.com" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=282A36&logoColor=7ED956&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
-    </a>
-    <a href="https://www.linkedin.com/in/pguilhermef/" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=282A36&logoColor=7ED956&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
-   </p>
-   <hr>
-
+   
    <h3 align="left">Tecnologias e Ferramentas:</h3>
    <p align="left">
       <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/></a>
@@ -37,5 +25,18 @@
       <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" alt="jest" width="40" height="40"/></a>
       <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/></a>
    </p>
+   
    <hr>
+
+   <h3 align="left">Entre em contato comigo:</h3>
+   <p align="left">
+    <a href="mailto:pguilhermesantos@hotmail.com" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=282A36&logoColor=7ED956&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+    </a>
+    <a href="https://www.linkedin.com/in/pguilhermef/" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=282A36&logoColor=7ED956&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+   </p>
+   <hr>
+   
 </div>
