@@ -26,6 +26,7 @@
       <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/></a>
       <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=prisma" alt="prisma" width="40" height="40"/></a>
       <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/></a>
+      <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" height="40"/></a>
       <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/></a>
    </p>
    
