@@ -1,17 +1,16 @@
 <div width="70%"> 
    <h3 align="left">Desenvolvedor Web Fullstack</h3>
-   <p>Eu sou simplesmente apaixonado por tecnologia e louco para entender como as coisas funcionam por de trás dos panos. Eu era o tipo de criança que quando ganhava um brinquedo, o desmontava todo só pra entender como aquele "objeto mágico" funcionava. (Os carrinhos de fricção eram os que mais sofriam, coitados.)</p>
-   <p>Outra característica minha é que sou o tipo de pessoa que gosta de estar em um ambiente que faça sentido e que faça eu me sentir parte de algo maior. Não quero de forma alguma trabalhar em algo simplesmente por dinheiro. Por esses motivos decidi estudar a área que eu sou apaixonado desde criança, a àrea de Tecnologia.</p>
-   <p>Atualmente estou estudando Desenvolvimento na <a href="https://www.betrybe.com/" target="_blank">Trybe<a/>.
-      E embora o curso seja focado no Fullstack Web, eu estou disponível para trabalhar na área que for preciso. Desde as que eu domino: Front, Back ou Fullstack. Até mesmo as que eu não domino mas estou super disposto a aprender, como por exemplo: IOS, Android, etc...</p>
-      <p>Me chame em algumas das redes abaixo e terei o enorme prazer em conversar com você!</p>
-
+   <p>Sou um desenvolvedor web fullstack apaixonado por tecnologia e pela construção de soluções para os mais diversos desafios. Desde cedo, sempre fui fascinado por entender o funcionamento das coisas, o que me levou ao mundo do desenvolvimento de software.</p>
+   <p>Acredito que o trabalho deve ser significativo e alinhado com nossos valores. Por isso, estou sempre em busca de projetos que me desafiem e que me permitam contribuir para algo maior. Estou comprometido em aprender continuamente e aprimorar minhas habilidades para oferecer o melhor resultado possível.</p>
+   <p>Com experiência em desenvolvimento fullstack, estou disponível para colaborar em projetos que envolvam frontend, backend, ou ambos. Além disso, estou aberto a novas oportunidades em áreas que ainda não domino, mas que estou ansioso para aprender, como desenvolvimento iOS, Android, entre outros.</p>
+   <p>Estou à disposição para conversarmos sobre como posso contribuir para o seu projeto. Sinta-se à vontade para me contatar através das redes abaixo.</p>
 </div>
-   <hr>
-   <div align="left">
-   
+
+<hr>
+
+<div align="left">
    <h3 align="left">Tecnologias e Ferramentas:</h3>
-   <p align="left">
+    <p align="left">
       <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="html" width="40" height="40"/></a>
       <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="css" width="40" height="40"/></a>
       <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="js" width="40" height="40"/></a>
@@ -34,13 +33,12 @@
 
    <h3 align="left">Entre em contato comigo:</h3>
    <p align="left">
-    <a href="mailto:pguilhermesantos@hotmail.com" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=282A36&logoColor=7ED956&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
-    </a>
-    <a href="https://www.linkedin.com/in/pguilhermef/" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=282A36&logoColor=7ED956&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
+      <a href="mailto:pguilhermesantos@hotmail.com" target="_blank">
+         <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=282A36&logoColor=7ED956&labelColor=&style=for-the-badge" height="30" alt="email logo"  />
+      </a>
+      <a href="https://www.linkedin.com/in/pguilhermef/" target="_blank">
+         <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=282A36&logoColor=7ED956&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+      </a>
    </p>
    <hr>
-   
 </div>
