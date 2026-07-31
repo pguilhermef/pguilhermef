@@ -1,8 +1,8 @@
 ### Olá, sou o Guilherme 👋
 
-Desenvolvedor Java, atualmente na Sys Manager (Rio de Janeiro), onde lidero o time de desenvolvimento corporativo e oriento devs estagiários no dia a dia.
+Desenvolvedor Java, apaixonado por tecnologia. Criar soluções é o que eu amo fazer.
 
-Cheguei no backend com Java depois de uma boa temporada construindo automações e apps corporativos em Power Platform — e isso mudou a forma como penso software: sempre olhando para o processo e o problema de negócio por trás do código, não só para a sintaxe. Hoje foco em Spring Boot, APIs REST e arquitetura de backend, e no lado front uso React/Next.js quando o projeto pede full stack.
+Cheguei no backend com Java depois de uma boa temporada construindo automações e apps corporativos em Power Platform, e isso mudou a forma como penso software: sempre olhando para o processo e o problema de negócio por trás do código, não só para a sintaxe. Hoje com foco em Spring Boot, APIs REST e arquitetura de backend, e no lado front uso React/Next.js quando o projeto pede full stack.
 
 ---
 
@@ -10,9 +10,9 @@ Cheguei no backend com Java depois de uma boa temporada construindo automações
 
 - Desenhar e construir APIs com **Java + Spring Boot**, com atenção a organização, testes e boas práticas
 - Modelar dados e trabalhar bem com **PostgreSQL**
-- Subir ambientes com **Docker** sem drama
+- Subir ambientes com **Docker**
 - Quando o projeto pede, monto o front também — **React / Next.js**
-- Automatizar processos chatos (herança boa da minha fase com **Power Platform**)
+- Automatizar processos repetitivos (herança boa da minha fase com **Power Platform**)
 
 ---
 
